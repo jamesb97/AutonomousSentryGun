@@ -1,0 +1,5 @@
+# 2020 Senior Capstone Project
+Senior Project
+
+## Fully Autonomous Programmable Sentry Gun
+The Autonomous Sentry Gun has the capability of detecting a target from a range using multiple sensors. The input from the camera will center on the target by calculating the yaw of the gun, whereas the input from the ultrasonic range finder calculates the output pitch to find the correct trajectory the bullet will need to take. Components in the project build include an electric airsoft gun, webcam with integrated video plus audio, raspberry pi three, 5 volt relay, two stepper motors, DC boost converter, motor shield driver, ultrasonic range finder. The webcam takes auditory inputs to confirm an activation code for the target. If the activation code is correct, the sentry gun will show a green light signaling to the user that it is disarmed. If the activation code is incorrect, the sentry gun will show a red light, which will fire at the target. This project is designed for anyone who wants autonomous protection, without having to manually control the gun.
