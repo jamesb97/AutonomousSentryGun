@@ -27,3 +27,8 @@ https://pypi.org/project/opencv-python/
 python face_detection.py
 ```
 
+#### The demo for our project can be viewed at
+
+```
+https://vimeo.com/488770791
+```
